@@ -1,7 +1,6 @@
-## PROYECTO 6 
 
-Hola mi nombre es Lizett Pinzon
-Futura Qa Engineer de Bogota Colombia  
+
+Hola mi nombre es Lizett Pinzon Qa Engineer de Bogota Colombia  
 
 ## Automatización de Pruebas para Creación de Kits en Urban Grocers
 
